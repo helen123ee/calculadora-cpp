@@ -22,3 +22,8 @@ Você pode colar o código no **[OnlineGDB](https://www.onlinegdb.com/online_c++
 3. Compile:
    ```bash
    g++ calculadora.cpp -o calculadora
+
+
+# Autor
+
+Helen Tais Rodrigues 
